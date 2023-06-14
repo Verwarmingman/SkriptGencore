@@ -1,5 +1,5 @@
 # Skript Gencore [1.16-1.19]
-Fishing system made in Skript v2.6.4
+Gencore made in Skript v2.6.4
 
 This skript provides your server with a full generator core. This includes lockers, custom locker enchants, custom gen prestiges, sell wands and upgrade wands. Collect and upgrade gens, sell loot and have some fun! You can change all messages, sounds, prices and even add your own custom generators. 
 
